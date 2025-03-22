@@ -9,5 +9,7 @@
 - [Milestone 4] - [Expected date]
 
 ## Update History
+
+- [2025-03-22 8:24:10 PM] [Unknown User] - File Update: Updated workflow.md
 - [Date] - [Update]
 - [Date] - [Update]
