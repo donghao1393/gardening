@@ -1,43 +1,46 @@
-# My Gardening Journey
+# 我的园艺生活
 
-This repository documents my gardening practices and experiences with indoor plants in Abu Dhabi. It serves as a digital garden journal to track the growth, care, and progress of my plants.
+这个仓库记录了我在阿布扎比的室内植物养护经历。它作为一个数字化的园艺日志，记录植物的生长、养护和进展。
 
-## Current Plants
+## 当前植物
 
-1. White Peace Lily (Spathiphyllum)
-   - Location: Study room corner
-   - Started: Before March 2024
-   - Status: Growing, recently repotted
+1. [白掌](植物/白掌/README.md)（和平百合）
+   - 位置：书房角落
+   - 入手：2023年前
+   - 状态：生长中，计划改良土壤
 
-2. [Plant 2] - To be documented
-3. [Plant 3] - To be documented
+2. [植物2] - 待记录
+3. [植物3] - 待记录
 
-## Repository Structure
+## 仓库结构
 
 ```
 .
 ├── README.md
-├── plants/                    # Individual plant documentation
-│   ├── peace-lily/           # White Peace Lily (Spathiphyllum)
-│   ├── [plant-2]/           
-│   └── [plant-3]/           
-├── images/                   # Plant photos
-├── templates/                # Documentation templates
-└── memory-bank/             # Progress tracking
+├── 植物/                    # 各类植物的档案
+│   └── 白掌/               # 白掌（和平百合）
+│       ├── README.md       # 基本信息
+│       └── 养护记录.md     # 详细记录
+├── 图片/                    # 植物照片
+│   └── 白掌/               # 按植物分类存储
+├── 对话/                    # 重要对话记录
+│   └── 白掌/               # 按植物分类存储
+├── 模板/                    # 文档模板
+└── memory-bank/            # 进度追踪
 ```
 
-## Documentation Format
+## 文档格式
 
-Each plant's documentation includes:
-- Basic information and care requirements
-- Growth timeline and observations
-- Photos documenting progress
-- Care history (watering, fertilizing, repotting)
-- Conversations and notes about specific issues
+每个植物的档案包括：
+- 基本信息和养护要求
+- 生长时间线和观察记录
+- 照片记录
+- 养护历史（浇水、施肥、换盆等）
+- 问题分析和解决方案
 
-## Environment
+## 环境信息
 
-- Location: Abu Dhabi
-- Setting: Indoor apartment
-- Climate Control: Air-conditioned environment
-- Windows: Sealed windows 
+- 地点：阿布扎比
+- 场所：室内公寓
+- 气候控制：空调环境
+- 窗户：密闭窗户 
