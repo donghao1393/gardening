@@ -19,6 +19,8 @@
 
 ## Current Session Notes
 
+- [9:17:32 PM] [Unknown User] Decision Made: 创建专门的物品目录结构
+- [9:17:22 PM] [Unknown User] 创建物品目录结构: 创建了专门的物品目录结构，用于记录所有园艺相关物品的详细信息。将物品分为栽培介质、肥料、设备和工具四大类，每个物品都有独立的文档记录详细信息。更新了养护记录中的物品链接，使其指向相应的物品文档，形成完整的交叉引用系统。
 - [9:04:17 PM] [Unknown User] Decision Made: 白掌换土方案与水质处理
 - [9:04:05 PM] [Unknown User] File Update: Updated active-context.md
 - [9:02:48 PM] [Unknown User] File Update: Updated 园艺物品清单.md
